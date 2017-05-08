@@ -1,0 +1,6 @@
+{
+    "name": "mzummo/php-zbarcode",
+    "description": "php-zbarcode",
+    "type": "library",
+    "require": {}
+}
